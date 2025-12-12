@@ -1,0 +1,17 @@
+# Môi trường ảo
+.venv/
+.venv310/
+
+# Config của IDE
+.idea/
+
+# File Python cache
+__pycache__/
+*.pyc
+
+data/
+test_1/
+
+*.h5
+*.pickle
+pix.data
