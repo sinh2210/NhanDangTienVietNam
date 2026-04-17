@@ -7,7 +7,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-VGG16-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-**Hệ thống nhận dạng mệnh giá tiền Việt Nam theo thời gian thực sử dụng Deep Learning**
+**Bài toán giúp nhận dạng mệnh giá tiền Việt Nam theo thời gian thực sử dụng Deep Learning**
 
 </div>
 
