@@ -1,7 +1,0 @@
-opencv-python
-opencv-python-headless
-keras
-tensorflow
-sklearn
-matplotlib
-pillow
