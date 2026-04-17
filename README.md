@@ -165,6 +165,7 @@ Xem file [`requirements.txt`](requirements.txt) để biết đầy đủ các t
 ## 📝 Ghi chú
 
 - Dữ liệu huấn luyện **không được đính kèm** trong repository (quá lớn). Bạn cần tự thu thập bằng `make_data.py`.
+- Hoặc tải ở đây [Link Drive](https://drive.google.com/drive/folders/1eL0sTLznvOQnzpilzV0tJkKyU3PRd_ox?usp=sharing)  
 - Mô hình `vggmodel.h5` cũng **không được đính kèm**. Bạn cần tự train.
 - Nên thu thập **ít nhất 500 ảnh/mệnh giá** để đạt độ chính xác cao.
 
