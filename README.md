@@ -61,7 +61,6 @@ NhanDangTienVietNam/
 ├── train.py              # Huấn luyện mô hình VGG16
 ├── test.py               # Nhận dạng thời gian thực qua webcam
 ├── requirements.txt      # Các thư viện cần cài đặt
-├── .gitignore            # Bỏ qua các file không cần thiết
 └── README.md             # Tài liệu dự án
 ```
 
